@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(4, 49, 0);
+}
+#container {
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: white;
+}
+.capivara {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 70%;
+    height: 60%;
+}
+.capivara img {
+    width: 70%;
+    height: 60%;
+}
+.conteúdo {
+    margin: auto;
+    text-align: justify;
+    width: 70%;
+}
